@@ -24,40 +24,16 @@ public class ChurchScheduleApp {
         String numOfSundays;
         numOfSundays = console.next();
 
-        listDates();
-
 
 
 
     }
-    //create a method that would ask the user to enter how many weeks there are in given month.
-    private static ArrayList<String> numWeeks (ArrayList<String> week){
-        ArrayList<String> newWeek = new ArrayList<String>();
-        for (int i = 0; i < week.size(); i++) {
-            String s = week.get(i);
-            newWeek.add(s);
-        }
-        return newWeek;
-    }
 
-    private static void listDates(){
-        //ask user to enter the dates for the Sundays
-        //store the dates in an ArrayList.
-        ArrayList<ArrayList<String>> listDates = new ArrayList();
-        //create do and while loop that would take in the dates.
-        int i = 0;
-        boolean askDates = false;
-        do{
-            ArrayList<String> date = new ArrayList<String>();
-            System.out.println("Please enter the dates:  Press 'q' when done. ");
-            String dates = console.next();
-            if(dates.equalsIgnoreCase("Q")){
-                saveFile(listDates);
-            }
-
-        }
-
-        while(askDates);
+    /**
+     * This method get the dates of Sundays from user.
+     */
+    private static void getDates(){
+        //ask user to enter the dates for the Sundays.
 
 
     }

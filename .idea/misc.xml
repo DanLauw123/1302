@@ -49,7 +49,14 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/1302Constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/1302Inheritence/pom.xml" />
+        <option value="$PROJECT_DIR$/1302Lecture/pom.xml" />
+        <option value="$PROJECT_DIR$/ArraylistPractice1302/pom.xml" />
+        <option value="$PROJECT_DIR$/Assignment2 (#1)/pom.xml" />
+        <option value="$PROJECT_DIR$/Encapsulated/pom.xml" />
         <option value="$PROJECT_DIR$/HorseClass1302/pom.xml" />
+        <option value="$PROJECT_DIR$/ThisMethodExamples/pom.xml" />
       </set>
     </option>
   </component>

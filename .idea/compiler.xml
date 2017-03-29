@@ -22,16 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="1302Constructor" />
-        <module name="1302Inheritence" />
-        <module name="1302Lecture" />
-        <module name="ArraylistPractice1302" />
-        <module name="Assignment2 (#1)" />
-        <module name="Assignment2(#3)" />
         <module name="Assignment3_1302" />
-        <module name="Encapsulated" />
-        <module name="number3" />
-        <module name="ThisMethodExamples" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
