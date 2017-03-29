@@ -1,4 +1,4 @@
-import ThisMethodExamples.BankConstructor;
+package ThisMethodExamples;
 
 import java.util.Arrays;
 import java.util.Scanner;
